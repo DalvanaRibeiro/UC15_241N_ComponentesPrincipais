@@ -6,6 +6,8 @@
 
 3. No terminal, entre na pasta do projeto: `cd my-app`
 
-4. Comando: `npx expo start `
+4. Instale os módulos: `npm install`ou `npm i `
 
-5. Siga a aula
+5. Comando: `npx expo start `
+
+6. Siga a aula
