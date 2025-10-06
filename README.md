@@ -11,3 +11,5 @@
 5. Comando: `npx expo start `
 
 6. Siga a aula
+
+7. escanear o QRcode
